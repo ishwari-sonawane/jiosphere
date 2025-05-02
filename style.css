@@ -92,7 +92,7 @@ body {
   justify-content: start;
   flex-direction: column;
   padding-top: 5vw;
-  background-image: url(waves\ left.svg);
+  background-image: url("waves\ left.svg");
   /* overflow: hidden; */
 }
 
@@ -194,7 +194,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/waves\ left.svg);
+  background-image: url("waves\ left.svg");
 }
 
 .swiper {
@@ -316,7 +316,7 @@ body {
   height: 110%;
   width: 100%;
     background-color: rgb(232,250,247);
-    background-image: url(waves\ left.svg);
+    background-image: url("waves\ left.svg");
 }
 
 .first-containt-personalize img{
@@ -452,7 +452,7 @@ body {
   width: 100%;
   background-color:rgb(232,250,247);
   position: relative;
-  background-image: url(waves\ left.svg);
+  background-image: url("waves\ left.svg");
 }
 
 .header-available-on{
